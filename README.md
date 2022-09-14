@@ -1,6 +1,6 @@
 # jengine (jengine)
 
-my personal engin
+my personal engine
 
 ## Install the dependencies
 ```bash
